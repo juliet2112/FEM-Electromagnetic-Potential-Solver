@@ -15,7 +15,7 @@ $$\frac{d^2\phi}{dx^2} = -\frac{\rho}{\epsilon_r}$$
 * Relative permittivity ($\epsilon_r$): A piecewise constant function defined over the intervals $[0,1]$, $[1,2]$, and $(2,4]$.
 
 ## 2. Methodology
-[cite_start]The solution follows a standard FEM pipeline:
+The solution follows a standard FEM pipeline:
 1.  **Variational Formulation**: Deriving the weak form $b(w, v) = l(v)$ using integration by parts.
 2.  **Discretization**: Using $n$ elements with linear basis functions (hat functions).
 3.  **Numerical Integration**: 2-point **Gauss-Legendre quadrature** is used to calculate the stiffness matrix and load vector.
