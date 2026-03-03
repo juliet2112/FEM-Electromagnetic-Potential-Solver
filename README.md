@@ -20,7 +20,7 @@ Program został napisany w języku **C++** i realizuje następujące kroki:
 ## 3. Wyniki
 Poniżej znajduje się wykres potencjału $\Phi(x)$ wygenerowany dla $n = 50$ elementów:
 
-![Wizualizacja wyników](results/visualization.jpg)
+![Wizualizacja wyników](visualization.jpg)
 
 ## 4. Jak uruchomić
 1. Skompiluj program (wymagany standard C++11 lub nowszy):
