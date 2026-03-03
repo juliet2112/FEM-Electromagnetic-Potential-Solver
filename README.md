@@ -29,7 +29,7 @@ The solver is written in **C++**.
 ## 4. Results
 Visual representation of the electromagnetic potential for $n = 50$:
 
-![Potential Plot](results/visualization.jpg)
+![Potential Plot](visualization.jpg)
 
 ## 5. How to Run
 1.  Compile the source code:
